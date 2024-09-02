@@ -33,8 +33,8 @@ title: "Terio - Digital Agency Jekyll Theme"
 email: "your-email@example.com"
 description: "Digital Agency and Business Portfolio Template by bslthemes"
 author: "Admin"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/askn" # the subpath of your site, e.g. /blog
+url: "https://ahmedsharifkhan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
