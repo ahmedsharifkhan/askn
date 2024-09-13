@@ -1,0 +1,15 @@
+logo:
+  dark: "https://lh3.googleusercontent.com/pw/AP1GczOTyMrsju2HpxRLk2i9hgAXbBD3-X4IEqhN7uxPUcowi1CXW-5CQqjV48EiSiPGgW6S9taWqxBcOeuRhAYiiKECEbRMkDFz8AZENB8ejtYEKvqDke1r4mBmPebj1SB4esfP558zTsaL3Ru0VUpgi-dC=w183-h36-s-no-gm?authuser=0"
+  light: "https://lh3.googleusercontent.com/pw/AP1GczOH5ZUH8w0dulRBWQWcJLsPNZGQxD-6qMNgeAzWfwVAixxt30ry1bhPfYHRx2yRcpKBsyLUK7ml-xuxYyQ4NKpymaQMI87ure91uv7LXcWTJ0p_w4MSj6lf3nrAK1FD3y1e1pHLPJYUazDktBqlB7xZ=w183-h36-s-no-gm?authuser=1"
+
+menu:
+  - name: Home
+    url: "#home"
+  - name: About
+    url: "#about"
+  - name: Portfolio
+    url: "#portfolio"
+  - name: Blog
+    url: "#blog"
+  - name: Contact
+    url: "#contact"

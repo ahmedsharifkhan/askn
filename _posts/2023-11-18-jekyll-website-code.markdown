@@ -40,11 +40,21 @@ social_media:
 
 ## To Start A New Project
 
+
+#### CSS Example:
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+
 ```
 jekyll new .
 ```
 
-Conflict: E:/NextJs/CodeNinja exists and is not empty. Ensure E:/NextJs/CodeNinja is empty or else try again with `--force` to proceed and overwrite any files.
+Conflict: E:/NextJs/CodeNinja exists and is not empty. Ensure E:/NextJs/CodeNinja is empty or else try again with --force to proceed and overwrite any files.
 
 ```
 jekyll new . --force
